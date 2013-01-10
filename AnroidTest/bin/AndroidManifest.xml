@@ -21,28 +21,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="anroid.androidtest.MainActivity2"
-            android:label="@string/title_activity_main_activity2" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name="anroid.androidtest.MainActivity3"
-            android:label="@string/title_activity_main_activity3" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name="anroid.androidtest.MainActivity4"
-            android:label="@string/title_activity_main_activity4" >
-        </activity>
     </application>
 
 </manifest>
