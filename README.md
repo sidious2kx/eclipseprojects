@@ -1,4 +1,4 @@
 eclipseprojects
 ===============
 
-A repository for our eclipse project collaborations.
+A repository for our eclipse project collaborations!
